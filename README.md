@@ -3,13 +3,12 @@
 
 # Installation
 Docker environment (recommended)
-```
-# 1. Preparing the pytorch environment
-# 2. Preparing the weights file
-# 3. Preparing the dataset
-# 4. go to code folder
-cd /yoloax 
-```
+
+1. Preparing the pytorch environment
+2. Preparing the weights file
+3. Preparing the dataset
+4. go to code folder such as cd /yoloax
+
 
 # Performance
 MS COCO
