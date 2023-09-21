@@ -1,5 +1,4 @@
 # YOLOAX: YOLOX With Attention
-<div align="center">
-[![map_fps]](https://github.com/KejianXu/yoloax/assets/134375672/3061a843-4493-488d-8695-f59dba513886)
-</div>
+![map_fps](https://github.com/KejianXu/yoloax/assets/134375672/3061a843-4493-488d-8695-f59dba513886)
+
 
