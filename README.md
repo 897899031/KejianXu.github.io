@@ -10,6 +10,11 @@ MS COCO
 | YOLOAX-L  | 640 | **53.8%** | **53.5%** |	**71.2%** |	**57.2%** | 84 fps  |
 | YOLOAX-X  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
 
+# Training
+Data preparation
++ Download MS COCO dataset images (train, val, test) and labels. If you have previously used a different version of YOLO, we strongly recommend that you delete train2017.cache and val2017.cache files, and redownload labels
++ Download PASCAL VOC dataset images (train, val, test) and labels. If you have previously used a different version of YOLO, we strongly recommend that you delete train2012.cache and val2012.cache files, and redownload labels
+
 # Acknowledgements
 + <a name = "ref1" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
 + <a name = "ref2" href="https://github.com/Megvii-BaseDetection/YOLOX">https://github.com/Megvii-BaseDetection/YOLOX</a>
