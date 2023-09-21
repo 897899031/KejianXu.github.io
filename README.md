@@ -16,6 +16,7 @@ Data preparation
 + Download PASCAL VOC 2012 dataset images (train, val, test) and labels
 
 Single GPU training
+`python train.py`
 
 Multiple GPU training
 ```
