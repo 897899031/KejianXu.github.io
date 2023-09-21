@@ -11,8 +11,6 @@ MS COCO
 | YOLOAX-X  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
 
 # Acknowledgements
-<details>
-<summary>Expands</summary>
 + <a name = "ref1" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
 + <a name = "ref2" href="https://github.com/Megvii-BaseDetection/YOLOX">https://github.com/Megvii-BaseDetection/YOLOX</a>
 + <a name = "ref3" href="https://github.com/WongKinYiu/yolov7">https://github.com/WongKinYiu/yolov7</a>
@@ -23,7 +21,7 @@ MS COCO
 + <a name = "ref8" href="https://github.com/DingXiaoH/RepVGG">https://github.com/DingXiaoH/RepVGG</a>
 + <a name = "ref9" href="https://github.com/bubbliiiing/yolox-pytorch">https://github.com/bubbliiiing/yolox-pytorch</a>
 + <a name = "ref10" href="https://github.com/bubbliiiing/yolov7-pytorch">https://github.com/bubbliiiing/yolov7-pytorch</a>
-</details>
+
 
 
 
