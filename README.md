@@ -6,9 +6,9 @@ MS COCO
 | Model | Test Size |   AP<sup>test</sup> | AP<sup>val</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | batch 1 fps |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | <a name = "ref1" href="https://github.com/AlexeyAB/darknet">YOLOAX-S</a>  | 640 | **42.1%** | **42.0%**	| **62.8%** |	**47.7%** | 119 fps |
-| <a name = "ref1" href="https://github.com/AlexeyAB/darknet">YOLOAX-M</a>  | 640 | **51.3%** | **51.0%**	| **69.5%**	| **53.3%** | 95 fps  |
-| <a name = "ref1" href="https://github.com/AlexeyAB/darknet">YOLOAX-L</a>  | 640 | **53.8%** | **53.5%** |	**71.2%** |	**57.2%** | 84 fps  |
-| <a name = "ref1" href="https://github.com/AlexeyAB/darknet">YOLOAX-X</a>  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
+| <a name = "ref2" href="https://github.com/AlexeyAB/darknet">YOLOAX-M</a>  | 640 | **51.3%** | **51.0%**	| **69.5%**	| **53.3%** | 95 fps  |
+| <a name = "ref3" href="https://github.com/AlexeyAB/darknet">YOLOAX-L</a>  | 640 | **53.8%** | **53.5%** |	**71.2%** |	**57.2%** | 84 fps  |
+| <a name = "ref4" href="https://github.com/AlexeyAB/darknet">YOLOAX-X</a>  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
 
 # Installation
 Docker environment (recommended)
