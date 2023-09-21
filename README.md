@@ -12,8 +12,8 @@ MS COCO
 
 # Training
 Data preparation
-+ Download MS COCO dataset images (train, val, test) and labels. If you have previously used a different version of YOLO, we strongly recommend that you delete train2017.cache and val2017.cache files, and redownload labels
-+ Download PASCAL VOC dataset images (train, val, test) and labels. If you have previously used a different version of YOLO, we strongly recommend that you delete train2012.cache and val2012.cache files, and redownload labels
++ Download MS COCO 2017 dataset images (train, val, test) and labels
++ Download PASCAL VOC 2012 dataset images (train, val, test) and labels
 
 # Acknowledgements
 + <a name = "ref1" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
