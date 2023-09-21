@@ -3,6 +3,7 @@
 
 # Performance
 MS COCO
+-----------
 | Model | Test Size |   AP<sup>test</sup> | AP<sup>val</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | batch 1 fps |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | YOLOAX-S  | 640 | **42.1%** | **42.0%**	| **62.8%** |	**47.7%** | 119 fps |
