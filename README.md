@@ -13,7 +13,14 @@ MS COCO
 # Acknowledgements
 <details>
 <summary>Expands</summary>
-· <a name = "ref2" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
+-  <a name = "ref1" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
+-  <a name = "ref2" href="https://github.com/Megvii-BaseDetection/YOLOX">https://github.com/Megvii-BaseDetection/YOLOX</a>
+-  <a name = "ref3" href="https://github.com/WongKinYiu/yolov7">https://github.com/WongKinYiu/yolov7</a>
+-  <a name = "ref4" href="https://github.com/WongKinYiu/yolor">https://github.com/WongKinYiu/yolor</a>
+-  <a name = "ref5" href="https://github.com/WongKinYiu/PyTorch_YOLOv4">https://github.com/WongKinYiu/PyTorch_YOLOv4</a>
+-  <a name = "ref6" href="https://github.com/ultralytics/yolov3">https://github.com/ultralytics/yolov3</a>
+-  <a name = "ref7" href="https://github.com/ultralytics/yolov5">https://github.com/ultralytics/yolov5</a>
+-  <a name = "ref8" href="https://github.com/DingXiaoH/RepVGG">https://github.com/DingXiaoH/RepVGG</a>
 </details>
 
 
