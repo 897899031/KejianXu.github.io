@@ -3,7 +3,7 @@
 
 # Performance
 
-| Model | Test Size | AP^test^ | AP^val^ | AP~50~^test^ | AP~75~^test^ | batch 1 fps |
+| Model | Test Size |   AP<sup>test</sup> | AP<sup>val</sup> | AP~50~^test^ | AP~75~^test^ | batch 1 fps |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
 | 单元格  | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 | 单元格 |
