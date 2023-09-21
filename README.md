@@ -11,6 +11,10 @@ MS COCO
 | YOLOAX-X  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
 
 # Acknowledgements
+<details>
+<summary>Expands</summary>
+· <a name = "ref2" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
+</details>
 
 
 
