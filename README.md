@@ -21,6 +21,8 @@ MS COCO
 + <a name = "ref6" href="https://github.com/ultralytics/yolov3">https://github.com/ultralytics/yolov3</a>
 + <a name = "ref7" href="https://github.com/ultralytics/yolov5">https://github.com/ultralytics/yolov5</a>
 + <a name = "ref8" href="https://github.com/DingXiaoH/RepVGG">https://github.com/DingXiaoH/RepVGG</a>
++ <a name = "ref9" href="https://github.com/bubbliiiing/yolox-pytorch">https://github.com/bubbliiiing/yolox-pytorch</a>
++ <a name = "ref10" href="https://github.com/bubbliiiing/yolov7-pytorch">https://github.com/bubbliiiing/yolov7-pytorch</a>
 </details>
 
 
