@@ -39,6 +39,10 @@ You will get the results:
  Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.746
 ```
 
+To measure accuracy, download COCO-annotations for Pycocotools to the
+```
+./coco/annotations/instances_val2017.json
+```
 # Training
 Data preparation
 + Download MS COCO 2017 dataset images (train, val, test) and labels
