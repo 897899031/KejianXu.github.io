@@ -15,6 +15,15 @@ Data preparation
 + Download MS COCO 2017 dataset images (train, val, test) and labels
 + Download PASCAL VOC 2012 dataset images (train, val, test) and labels
 
+Single GPU training
+
+Multiple GPU training
+```
+# DP
+CUDA_VISIBLE_DEVICES=0,1 python train.py
+# DDP
+CUDA_VISIBLE_DEVICES=0,1 python -m torch.distributed.launch --nproc_per_node=2 train.py
+```
 # Acknowledgements
 + <a name = "ref1" href="https://github.com/AlexeyAB/darknet">https://github.com/AlexeyAB/darknet</a>
 + <a name = "ref2" href="https://github.com/Megvii-BaseDetection/YOLOX">https://github.com/Megvii-BaseDetection/YOLOX</a>
