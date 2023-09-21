@@ -1,15 +1,6 @@
 # YOLOAX: YOLOX With Attention
 <div align=center><img src="https://github.com/KejianXu/yoloax/assets/134375672/3061a843-4493-488d-8695-f59dba513886"></div>
 
-# Installation
-Docker environment (recommended)
-
-1. Preparing the pytorch environment
-2. Preparing the weights file
-3. Preparing the dataset
-4. go to code folder such as: cd /yoloax
-
-
 # Performance
 MS COCO
 | Model | Test Size |   AP<sup>test</sup> | AP<sup>val</sup> | AP<sub>50</sub><sup>test</sup> | AP<sub>75</sub><sup>test</sup> | batch 1 fps |
@@ -19,6 +10,20 @@ MS COCO
 | YOLOAX-L  | 640 | **53.8%** | **53.5%** |	**71.2%** |	**57.2%** | 84 fps  |
 | YOLOAX-X  | 640 | **54.2%** | **54.2%** |	**72.3%** |	**58.4%** | 72 fps  |
 
+# Installation
+Docker environment (recommended)
+
+1. Preparing the pytorch environment
+2. Preparing the weights file
+3. Preparing the dataset
+4. go to code folder such as: cd /yoloax
+
+# Testing
+```
+# Remember to change the parameter settings in predict.py
+python predict.py
+```
+
 # Training
 Data preparation
 + Download MS COCO 2017 dataset images (train, val, test) and labels
@@ -26,11 +31,13 @@ Data preparation
 
 Single GPU training
 ```
+# Remember to change the parameter settings in train.py
 python train.py
 ```
 
 Multiple GPU training
 ```
+# Remember to change the parameter settings in train.py
 # DP
 CUDA_VISIBLE_DEVICES=0,1 python train.py
 
