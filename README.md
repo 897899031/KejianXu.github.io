@@ -1,5 +1,5 @@
 # YOLOAX: YOLOX With Attention
-<div align=center><img src="https://github.com/KejianXu/yoloax/assets/134375672/3061a843-4493-488d-8695-f59dba513886"></div>
+<div align=center><img src="[https://github.com/KejianXu/yoloax/assets/134375672/3061a843-4493-488d-8695-f59dba513886](https://github.com/KejianXu/yoloax/blob/main/paper/Figure_map.svg)"></div>
 
 # Performance
 MS COCO
