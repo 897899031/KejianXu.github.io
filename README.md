@@ -1,4 +1,4 @@
-# YOLOAX: YOLOX With Attention
+# YOLOAX: YOLOX With Multi-dimensional Attention For Real-time Object Detection
 <div align=center><img src="https://github.com/KejianXu/yoloax/blob/main/paper/Figure_map.svg"></div>
 
 # Performance
