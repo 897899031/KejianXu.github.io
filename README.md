@@ -1,5 +1,5 @@
 # YOLOAX: YOLOX With Multi-dimensional Attention For Real-time Object Detection
-<div align=center><img src="https://github.com/KejianXu/yoloax/paper/Figure_map.svg"></div>
+<div align=center><img src="https://github.com/KejianXu/yoloax/paper/map.svg"></div>
 
 # Performance
 MS COCO
